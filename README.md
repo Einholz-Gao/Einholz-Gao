@@ -2,7 +2,7 @@
 - a masterstudent in TUM
 - Mechatronik und Robotik
 - 👀 I’m interested in mechanical and elecrical things
-- 🌱 I’m currently learning Python, C++ and PCB-design.
+- 🌱 I’m currently learning Python, C++
 
 <!---
 Einholz-Gao/Einholz-Gao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
